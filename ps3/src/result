@@ -1,0 +1,54 @@
+Interrogating A...
+Is a sort algorithm? : true
+Is stable? : true
+Best case time used: 0.0172589
+Worst case Time used: 0.0248152
+
+
+Interrogating B...
+Is a sort algorithm? : false
+Is stable? : false
+Best case time used: 0.0043265
+Worst case Time used: 0.0050258
+
+
+Interrogating C...
+Is a sort algorithm? : true
+Is stable? : true
+Best case time used: 0.0019029
+Worst case Time used: 19.98308
+
+
+Interrogating D...
+Is a sort algorithm? : true
+Is stable? : false
+Best case time used: 0.0528463
+Worst case Time used: 0.0533323
+
+
+Interrogating E...
+Is a sort algorithm? : true
+Is stable? : false
+Best case time used: 0.0488973
+Worst case Time used: 0.0484317
+
+
+Interrogating F...
+Is a sort algorithm? : true
+Is stable? : true
+Best case time used: 1.72E-5
+Worst case Time used: 0.18082659
+
+
+Performing additional comparison between D and E
+
+Is a sort algorithm? : true
+Is stable? : false
+Best case time used: 1.3256947
+Worst case Time used: 1.3373082
+
+
+Is a sort algorithm? : true
+Is stable? : false
+Best case time used: 0.2586806
+Worst case Time used: 0.22915901
